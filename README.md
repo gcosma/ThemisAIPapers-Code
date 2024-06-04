@@ -1,4 +1,4 @@
 # ThemisAIProjectPapers
-This repository contains papers and material for the Themis.AI project
+This repository contains synthetic data and code for the Themis.AI project
 
 Rename the dataset and update the code before it is released
